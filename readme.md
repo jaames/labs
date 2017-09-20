@@ -2,6 +2,14 @@
 
 Setups and notes from the various animation experiments (and maybe other things) that I make for fun
 
+### Live Demos
+
+##### 3D Tunnel
+
+![tunnel preview](https://github.com/jaames/labs/blob/master/demos/tunnel/preview.jpg)
+
+[Live Demo](https://rakujira.jp/labs/tunnel-demo/) [Demo GIF (older version)](https://twitter.com/rakujira/status/910251620788768768)
+
 ### Animations
 
 These are all made with [Blender](https://www.blender.org), and most of them will require the [animation_nodes plugin](http://animation-nodes-manual.readthedocs.io/en/latest/user_guide/install/install.html) too.
