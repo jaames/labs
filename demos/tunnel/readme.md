@@ -15,10 +15,10 @@ for point in mesh:
     y = point.y * f + camera.y
 ```
 
-With a large enough depth range this looks reasonably beleivable, although it's definitely not accurate and brings numerous problems and limitations with it. :/
+With a large enough depth range this looks reasonably believable, although it's definitely not accurate and brings numerous problems and limitations with it. :/
 
 ### Useful resources
 
 - [OpenGL tutorial on matrices](http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/) - explains the concepts behind matrices + 3D vectors well and gives examples of different transform types
 
-- [lightgl.js Matrix Class](https://evanw.github.io/lightgl.js/docs/matrix.html) - useful for referencing how to implementing certain matrix manipulations
+- [lightgl.js Matrix Class](https://evanw.github.io/lightgl.js/docs/matrix.html) - useful for referencing how to implement certain matrix manipulations
