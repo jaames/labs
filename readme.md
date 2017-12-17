@@ -14,9 +14,9 @@ Setups and notes from the various animation experiments (and maybe other things)
 
 These are all made with [Blender](https://www.blender.org), and most of them will require the [animation_nodes plugin](http://animation-nodes-manual.readthedocs.io/en/latest/user_guide/install/install.html) too.
 
-##### Monotone Cubes
+##### [Monotone Cubes](https://github.com/jaames/labs/blob/master/animations/cubes)
 
-![subes preview](https://github.com/jaames/labs/blob/master/animations/cubes/preview.jpg)
+![cubes preview](https://github.com/jaames/labs/blob/master/animations/cubes/preview.png)
 
 [Demo video](https://twitter.com/rakujira/status/941851591635886081)
 
@@ -26,18 +26,18 @@ These are all made with [Blender](https://www.blender.org), and most of them wil
 
 [Demo video](https://twitter.com/rakujira/status/940716832150970369)
 
-##### Ocean Waves
+##### [Ocean Waves](https://github.com/jaames/labs/blob/master/animations/ocean-waves)
 
 ![ocean-waves preview](https://github.com/jaames/labs/blob/master/animations/ocean-waves/preview.jpg)
 
 [Demo video](https://twitter.com/rakujira/status/883876092687372288)
 
-##### Radial Sine Wave
+##### [Radial Sine Wave](https://github.com/jaames/labs/blob/master/animations/radial-sine-wave)
 
 ![radial-sine-wave preview](https://github.com/jaames/labs/blob/master/animations/radial-sine-wave/preview.jpg)
 
 [Demo video](https://twitter.com/rakujira/status/882657351987343360)
 
-##### Hue Wheel (Audio Visualizer)
+##### [Hue Wheel (Audio Visualizer)](https://github.com/jaames/labs/blob/master/animations/hue-wheel-audio-visualizer)
 
 ![hue-wheel-audio-visualizer preview](https://github.com/jaames/labs/blob/master/animations/hue-wheel-audio-visualizer/preview.jpg)
