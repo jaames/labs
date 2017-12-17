@@ -14,6 +14,12 @@ Setups and notes from the various animation experiments (and maybe other things)
 
 These are all made with [Blender](https://www.blender.org), and most of them will require the [animation_nodes plugin](http://animation-nodes-manual.readthedocs.io/en/latest/user_guide/install/install.html) too.
 
+##### Monotone Cubes
+
+![subes preview](https://github.com/jaames/labs/blob/master/animations/cubes/preview.jpg)
+
+[Demo video](https://twitter.com/rakujira/status/941851591635886081)
+
 ##### Helix
 
 ![helix preview](https://github.com/jaames/labs/blob/master/animations/helix/preview.jpg)
