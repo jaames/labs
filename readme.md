@@ -8,7 +8,7 @@ Setups and notes from the various animation experiments (and maybe other things)
 
 ![tunnel preview](https://github.com/jaames/labs/blob/master/demos/tunnel/preview.jpg)
 
-[Live Demo](https://rakujira.jp/labs/tunnel-demo/) [Demo GIF (older version)](https://twitter.com/rakujira/status/910251620788768768)
+[Live Demo](https://rakujira.jp/labs/tunnel-demo/)
 
 ### Animations
 
@@ -18,13 +18,9 @@ These are all made with [Blender](https://www.blender.org), and most of them wil
 
 ![cubes preview](https://github.com/jaames/labs/blob/master/animations/cubes/preview.png)
 
-[Demo video](https://twitter.com/rakujira/status/941851591635886081)
-
 ##### Helix
 
 ![helix preview](https://github.com/jaames/labs/blob/master/animations/helix/preview.jpg)
-
-[Demo video](https://twitter.com/rakujira/status/940716832150970369)
 
 ##### [Ocean Waves](https://github.com/jaames/labs/blob/master/animations/ocean-waves)
 
